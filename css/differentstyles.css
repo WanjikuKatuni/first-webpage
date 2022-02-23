@@ -1,0 +1,14 @@
+html {background-color: #E59A59;}
+body {background-color: #FFD5AF;}
+h1 {color: #712E1E;
+    text-align: center;}
+h2 {color: #888870;
+    font-style: italic;
+    text-align: center;
+}
+p   {font-family: lucida sans;
+    color: #888870;
+    font-style: italic;
+    line-height: 20px;
+    }
+ol  {line-height: 40px;} 
