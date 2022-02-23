@@ -1,0 +1,18 @@
+html {background-color: #178ca4;}
+body {background-color: #18B7BE;}
+h1 {
+    color: #072A40;
+    text-align: center;
+}
+h2 {color: #F9F7F0;
+    font-style: italic;
+    text-align: center;
+}
+p   {
+    font-family: cursive;
+    color: #072A40;
+    font-style: italic;
+    line-height: 20px;
+    }
+ol  {line-height: 40px;} 
+
