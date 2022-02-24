@@ -1,15 +1,25 @@
+html {background-color: #178ca4;}
+body {background-color: #18B7BE;}
 h1 {
-    color: darkred;
+    color: #072A40;
     text-align: center;
-  }
-  h2 {
+}
+h2 {color: #F9F7F0;
     font-style: italic;
     text-align: center;
-    color: red;
-  }
-  p {
-    color: crimson;
-  }
-  body {
-    background-color: salmon;
-  }
+}
+.author {
+    color: #072A40;
+    font-size: larger;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+}
+p   {
+    font-family: cursive;
+    color: #072A40;
+    font-style: italic;
+    line-height: 20px;
+    }
+ol  {line-height: 40px;} 
+

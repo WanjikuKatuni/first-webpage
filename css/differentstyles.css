@@ -6,9 +6,11 @@ h2 {color: #888870;
     font-style: italic;
     text-align: center;
 }
+.intro {
+    font-style: oblique;
+}
 p   {font-family: lucida sans;
     color: #888870;
-    font-style: italic;
     line-height: 20px;
     }
 ol  {line-height: 40px;} 
