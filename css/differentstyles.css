@@ -22,3 +22,15 @@ ol  {line-height: 40px;}
     color:#888870;
     font-weight: 600;
 }
+.important {
+    color: rgb(92, 61, 5);
+    font-weight: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.unimportant {
+    color: #36487c;
+    font-weight: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
