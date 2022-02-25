@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+
+  @media screen and (min-width: 480px) and (max-width: 768px) {
+    body {
+    
+      background-color: black;
+      color: white;
+    }
+  }
+
+  @media screen and (min-width: 768px) {
+      body {
+          background-color: yellowgreen;
+      }
+      .column
+      {
+          width: 280px;
+          float: left;
+          padding: 15px;
+      }
+  }
