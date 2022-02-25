@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+  }
+
+  .cats p {
+    background-color: coral;
+  }
+  .dogs p {
+    background-color: steelblue;
+  }
